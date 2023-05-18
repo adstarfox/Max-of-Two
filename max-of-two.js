@@ -7,4 +7,6 @@ if (x > y) {
     console.log (`y is greater than x at ${y}`)
 } else if (x === y){
     console.log (`The values are the same`)
+} else {
+    console.log(`You don't have any numbers!`)
 }
